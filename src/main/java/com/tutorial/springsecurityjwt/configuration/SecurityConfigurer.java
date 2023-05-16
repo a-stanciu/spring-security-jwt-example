@@ -1,4 +1,4 @@
-package com.tutorial.springsecurityjwt;
+package com.tutorial.springsecurityjwt.configuration;
 
 import com.tutorial.springsecurityjwt.filters.JwtRequestFilter;
 import org.springframework.beans.factory.annotation.Autowired;

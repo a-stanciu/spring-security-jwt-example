@@ -1,4 +1,4 @@
-package com.tutorial.springsecurityjwt.models;
+package com.tutorial.springsecurityjwt.entities;
 
 public class AuthenticationResponse {
 

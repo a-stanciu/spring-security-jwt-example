@@ -1,7 +1,7 @@
-package com.tutorial.springsecurityjwt;
+package com.tutorial.springsecurityjwt.controllers;
 
-import com.tutorial.springsecurityjwt.models.AuthenticationRequest;
-import com.tutorial.springsecurityjwt.models.AuthenticationResponse;
+import com.tutorial.springsecurityjwt.entities.AuthenticationRequest;
+import com.tutorial.springsecurityjwt.entities.AuthenticationResponse;
 import com.tutorial.springsecurityjwt.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
